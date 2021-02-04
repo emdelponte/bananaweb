@@ -1,6 +1,6 @@
 ---
 title: "Dr. BananaMan García"
-image: "ferchucky.png"
+image: "logo.jpg"
 links:
 
   - label: Publications
