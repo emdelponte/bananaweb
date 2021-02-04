@@ -1,0 +1,18 @@
+name: "."
+title: "My pages"
+description: |
+  
+output_dir: "docs"
+navbar:
+  logo:
+    image: logo.png
+  left:
+    - text: "About me"
+      href: about.html
+  source_url: TRUE
+output: 
+  distill::distill_article:
+    highlight: rstudio
+    toc: true
+theme: postcards.css
+

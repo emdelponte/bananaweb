@@ -1,0 +1,24 @@
+---
+title: "Dr. BananaMan García"
+image: "ferchucky.png"
+links:
+
+  - label: Publications
+    url: "https://scholar.google.com/citations?user=ydWuLWYAAAAJ&hl=en"
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/fernando-a-garc%C3%ADa-bastidas-02280153/"
+  - label: YouTube
+    url: "https://www.youtube.com/channel/UCjuJSgjgUf7drFku0IWaj_g?view_as=subscriber"
+  - label: Twitter
+    url: "https://twitter.com/Ferchucky"
+  - label: My Instagram
+    url: "https://www.instagram.com/ferchuckygarcia/"
+  - label: Contribute!
+    url: "https://ko-fi.com/ferchucky"    
+
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+
+is a PhD plant pathology scientist working at Keygen. Here I will tell you more about myself.
